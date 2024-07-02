@@ -1,7 +1,6 @@
 import React from "react";
-import weather from "./weather";
-import forecast from "./forecast";
-import footer from "./footer";
+import Weather from "./Weather";
+
 import './App.css';
 
 function App() {
@@ -13,18 +12,7 @@ function App() {
       <hr/>
       <forecast />
       <footer />
-      <form>
-      <input
-        className="boor"
-        type="search"
-        placeholder="Enter a city.."
       
-      />
-      <button className="noor" type="Submit">
-        Search
-      </button>
-    </form>
-    <hr/>
         <div>
         <footer>
           This project was coded by
