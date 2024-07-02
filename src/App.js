@@ -10,8 +10,7 @@ function App() {
       <h1 className="grad">Weather App</h1>
       <Weather/>
       <hr/>
-      <forecast />
-      <footer />
+
       
         <div>
         <footer>
