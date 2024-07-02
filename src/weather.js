@@ -1,6 +1,4 @@
-import React, { useState } from "react";
-import Forecast from "./Forecast";
-import Footer from "./Footer";
+import React, { useState } from "react"
 import axios from "axios";
 
 export default function Weather() {
