@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header>
       <h1 className="grad">Weather App</h1>
-      <Weather/>
+    <Weather/>
       <hr/>
 
       
